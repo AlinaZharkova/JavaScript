@@ -1,0 +1,19 @@
+p {
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+    width: 500px;
+}
+
+html {
+    background-color: #FFEFD5;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FFE4B5;
+    padding: 0 20px 20px 20px;
+}
